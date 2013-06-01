@@ -2,3 +2,8 @@ h1 {
 	font-family: sans-serif;
 	color: teal;
 }
+
+#content {
+	position: relative;
+	margin: auto;
+}
